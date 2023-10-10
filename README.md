@@ -1,6 +1,6 @@
 # Zirpon
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=Zirpon&color=green)
 
 ## Hi 👋, 
 I'm Zirpon, a Full Stack developer 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem. 
