@@ -19,11 +19,6 @@ I'm Zirpon, a Full Stack developer 👨‍💻 who is passionate about JavaScrip
   </a>  
 </p>
 
-<a href="https://github.com/Zirpon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zirpon&theme=dark&exclude_repo=projects-and-projects,open-source-contribution" />
-</a>
-
-
 ### Technologies:
 <div style="display: inline_block"><br>
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"></code>
