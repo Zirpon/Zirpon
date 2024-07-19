@@ -46,8 +46,8 @@ I'm Zirpon, a Full Stack developer 👨‍💻 who is passionate about JavaScrip
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zirpon&repo=majSoulRecordPrint&theme=dark" />
 </a>
 
-<a href="https://github.com/Zirpon/terminal-wechat">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zirpon&repo=terminal-wechat&theme=dark" />
+<a href="https://github.com/Zirpon/douyu-helper">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zirpon&repo=douyu-helper&theme=dark" />
 </a>
 
 ### 🎢Fun:
