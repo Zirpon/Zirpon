@@ -1,9 +1,9 @@
-# Zirpon
+# Zepung
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Zirpon&color=green)
 
 ## Hi 👋, 
-I'm Zirpon, a Full Stack developer 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem. 
+I'm Zepung, a Full Stack developer 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem. 
 
 <p align="justify">
   <a href="https://github.com/Zirpon/github-readme-stats">
