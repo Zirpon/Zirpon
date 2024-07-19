@@ -19,7 +19,7 @@ I'm Zirpon, a Full Stack developer 👨‍💻 who is passionate about JavaScrip
   </a>  
 </p>
 
-### Technologies:
+### 💻Technologies:
 <div style="display: inline_block"><br>
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"></code>
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
@@ -40,7 +40,7 @@ I'm Zirpon, a Full Stack developer 👨‍💻 who is passionate about JavaScrip
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
 </div>
 
-### Top Repo:
+### 🦎Top Repo:
 
 <a href="https://github.com/Zirpon/majSoulRecordPrint">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zirpon&repo=majSoulRecordPrint&theme=dark" />
@@ -49,3 +49,7 @@ I'm Zirpon, a Full Stack developer 👨‍💻 who is passionate about JavaScrip
 <a href="https://github.com/Zirpon/terminal-wechat">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zirpon&repo=terminal-wechat&theme=dark" />
 </a>
+
+### 🎢Fun:
+
+[emoj library](https://emoji.muan.co/)
